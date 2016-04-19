@@ -9,7 +9,7 @@ import java.util.Random;
  */
 public class RandomText {
 
-    public static void Splitter(String text){
+    public static void Shuffle(String text){
         String[] parts = text.split(" ");       //dzielimy wyrazy
         List<String> parts2 = new ArrayList<>();
         StringBuilder builder = new StringBuilder();
