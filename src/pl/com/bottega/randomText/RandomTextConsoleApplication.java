@@ -10,7 +10,7 @@ public class RandomTextConsoleApplication {
 
         String str = ("Nie, ma, znaczenia kolejnosc. liter skladajacych sie na dane slowo");
         System.out.println(str);
-        RandomText.Splitter(str);
+        RandomText.Shuffle(str);
 
        /* Scanner enteredText = new Scanner(System.in);
         System.out.println("Enter your text: ");
