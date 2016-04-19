@@ -9,7 +9,7 @@ import java.util.Random;
  */
 public class RandomText {
 
-    public static void Shuffle(String text){
+    public static String Shuffle(String text){
         String[] parts = text.split(" ");       //dzielimy wyrazy
         List<String> parts2 = new ArrayList<>();
         StringBuilder builder = new StringBuilder();
@@ -21,6 +21,7 @@ public class RandomText {
                 builder.append(" ");
             }
         System.out.println(builder.toString()); //wyswietlenie zmienionego zdania
+        return builder.toString();
     }
 
     private static int getRandomNumberInRange (int min, int max){      //metoda generujaca liczby z przedzialu
