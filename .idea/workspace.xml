@@ -2,61 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73344e9a-8f75-4135-bb7d-15f3beed852c" name="Default" comment="change name of methody and added return">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/commons/application/BubbleSortTest2ConsoleApp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/commons/application/BubbleSortTestConsoleApp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/commons/math/Fraction.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/commons/math/FractionTestConsoleApp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/commons/math/ReverseTestConsoleApp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/commons/math/Sorter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/commons/math/formatter/Formatter$FormattingLanguage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/commons/math/formatter/Formatter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/commons/math/formatter/FormatterConsoleApplication.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/commons/math/probility/Probability.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/commons/math/probility/ProbabilityTestConsoleApp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/commons/utils/Converter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/commons/utils/Display.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/application/ClientTestConsoleApp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/application/ConsoleApplication.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/application/LightboxTestConsoleApp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/application/MoneyTestConsoleApp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/application/ReservationTestConsoleApp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/infrastructure/repositories/FakeProductRepository.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/model/AbstractProduct.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/model/Client.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/model/ClientStatus.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/model/LightBox.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/model/Money$PrintRequest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/model/Money.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/model/Offer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/model/PriceAndNameProductComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/model/PrintRequest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/model/Product.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/model/ProductNotAvailableException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/model/ProductRepository.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/model/Purchase.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/model/Reservation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/model/VIPClient.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/model/products/Clip.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/model/products/Picture.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/model/products/Song$Channel.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/model/products/Song$File_Extension.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/photostock/sales/model/products/Song.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photostock.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pl/com/bottega/randomText/RandomTextConsoleApplication.java" afterPath="$PROJECT_DIR$/src/pl/com/bottega/randomText/RandomTextConsoleApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pl/com/bottega/commons/math/probility/Probability.java" afterPath="$PROJECT_DIR$/src/pl/com/bottega/commons/math/probility/Probability.java" />
     </list>
-    <list id="081480ec-af93-4571-9ae9-391783e0b443" name="Rejected commit: Default" comment="change name of methody and added return">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/randomText/RandomText.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/photostock/pl/com/bottega/randomText/RandomTextConsoleApplication.class" />
-    </list>
+    <list id="081480ec-af93-4571-9ae9-391783e0b443" name="Rejected commit: Default" comment="change name of methody and added return" />
     <ignored path="photostock.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -78,32 +27,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Reservation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Reservation.java">
+      <file leaf-file-name="Money.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Money.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="946">
-              <caret line="45" column="52" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="52" />
+            <state relative-caret-position="990">
+              <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Product.java">
+      <file leaf-file-name="Probability.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/math/probility/Probability.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fraction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/math/Fraction.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <caret line="105" column="33" selection-start-line="105" selection-start-column="33" selection-end-line="105" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PriceAndNameProductComparator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/PriceAndNameProductComparator.java">
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-              <folding />
+            <state relative-caret-position="177">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding>
+                <element signature="e#1684#1685#0" expanded="true" />
+                <element signature="e#1711#1712#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -113,69 +75,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="528">
               <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FakeProductRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/infrastructure/repositories/FakeProductRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="18" column="75" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
+                <element signature="e#631#632#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractProduct.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/AbstractProduct.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Money.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Money.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="968">
-              <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandomText.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/randomText/RandomText.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandomTextConsoleApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/randomText/RandomTextConsoleApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProductRepository.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/ProductRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -228,14 +131,11 @@
         <option value="$PROJECT_DIR$/src/pl/com/bottega/commons/application/BubbleSortTestConsoleApp.java" />
         <option value="$PROJECT_DIR$/src/pl/com/bottega/RandomText/RandomText.java" />
         <option value="$PROJECT_DIR$/src/pl/com/bottega/RandomText/RandomTextConsoleApplication.java" />
-        <option value="$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Money.java" />
         <option value="$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Offer.java" />
         <option value="$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Purchase.java" />
         <option value="$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/application/ConsoleApplication2.java" />
-        <option value="$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/application/MoneyTestConsoleApp.java" />
         <option value="$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/ClientStatus.java" />
         <option value="$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/VIPClient.java" />
-        <option value="$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Client.java" />
         <option value="$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/application/ClientTestConsoleApp.java" />
         <option value="$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/products/Clip.java" />
         <option value="$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/application/ConsoleApplication.java" />
@@ -247,7 +147,6 @@
         <option value="$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/application/LightboxTestConsoleApp.java" />
         <option value="$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/LightBox.java" />
         <option value="$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/products/Picture.java" />
-        <option value="$PROJECT_DIR$/src/pl/com/bottega/commons/math/probility/Probability.java" />
         <option value="$PROJECT_DIR$/src/pl/com/bottega/commons/math/probility/ProbabilityTestConsoleApp.java" />
         <option value="$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/ProductRepository.java" />
         <option value="$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/infrastructure/repositories/FakeProductRepository.java" />
@@ -257,6 +156,10 @@
         <option value="$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Reservation.java" />
         <option value="$PROJECT_DIR$/src/pl/com/bottega/randomText/RandomTextConsoleApplication.java" />
         <option value="$PROJECT_DIR$/src/pl/com/bottega/randomText/RandomText.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Money.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/application/MoneyTestConsoleApp.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/bottega/commons/math/probility/Probability.java" />
+        <option value="$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Client.java" />
       </list>
     </option>
   </component>
@@ -312,9 +215,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -348,10 +250,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="bottega" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="randomText" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -603,6 +501,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1217,30 +1116,39 @@
       <workItem from="1460985548120" duration="1604000" />
       <workItem from="1461052985595" duration="853000" />
       <workItem from="1461053969100" duration="3580000" />
-      <workItem from="1461058899121" duration="6325000" />
+      <workItem from="1461058899121" duration="6671000" />
+      <workItem from="1461141489932" duration="6802000" />
     </task>
+    <task id="LOCAL-00001" summary="change name of methody and added return">
+      <created>1461161994095</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1461161994095</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="317670000" />
+    <option name="totallyTimeSpent" value="324818000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22319475" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13238512" sideWeight="0.50208336" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13205418" sideWeight="0.50208336" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15973742" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2234375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22854078" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1284,27 +1192,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/math/FractionTestConsoleApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/photostock/pl/com/bottega/commons/math/FractionTestConsoleApp.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/out/production/photostock/pl/com/bottega/commons/math/formatter/Formatter.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1043">
@@ -1315,13 +1202,6 @@
     <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/math/formatter/FormattingLanguage.java" />
     <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Product/PictureTest.groovy" />
     <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Product/Picture.java" />
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/utils/Converter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/application/BubbleSortTestConsoleApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -1329,24 +1209,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/utils/Display.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/application/BubbleSortTest2ConsoleApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/math/Sorter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -1358,52 +1224,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/products/PrintRequest.java" />
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/PrintRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Purchase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/math/formatter/FormatterConsoleApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/util/Random.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/math/Fraction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="105" column="33" selection-start-line="105" selection-start-column="33" selection-end-line="105" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/ClientStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/math/formatter/Formatter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="72" column="49" selection-start-line="72" selection-start-column="49" selection-end-line="72" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -1436,66 +1260,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/application/MoneyTestConsoleApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="56" column="56" selection-start-line="56" selection-start-column="56" selection-end-line="56" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
           <caret line="975" column="22" selection-start-line="975" selection-start-column="22" selection-end-line="975" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/application/LightboxTestConsoleApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/LightBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/application/ConsoleApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="14" column="82" selection-start-line="14" selection-start-column="82" selection-end-line="14" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1144">
-          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/application/ClientTestConsoleApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="62" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/VIPClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/math/probility/ProbabilityTestConsoleApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -1520,89 +1288,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/math/probility/Probability.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Offer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/application/ReservationTestConsoleApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="42" column="57" selection-start-line="42" selection-start-column="57" selection-end-line="42" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/ProductNotAvailableException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/PriceAndNameProductComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/infrastructure/repositories/FakeProductRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="18" column="75" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Reservation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="45" column="52" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/AbstractProduct.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
+        <state relative-caret-position="463">
           <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Money.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/randomText/RandomText.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="419">
           <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
@@ -1616,10 +1312,253 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/ClientStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/LightBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-879">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Offer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+          <folding>
+            <element signature="e#748#749#0" expanded="true" />
+            <element signature="e#776#777#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/PriceAndNameProductComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/PrintRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/ProductRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Purchase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Reservation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="45" column="52" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/VIPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/application/ClientTestConsoleApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="62" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/application/ConsoleApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="82" selection-start-line="14" selection-start-column="82" selection-end-line="14" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/application/LightboxTestConsoleApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/application/MoneyTestConsoleApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="39" column="42" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/application/ReservationTestConsoleApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="42" column="57" selection-start-line="42" selection-start-column="57" selection-end-line="42" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/infrastructure/repositories/FakeProductRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="75" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/utils/Converter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/utils/Display.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/math/FractionTestConsoleApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/math/ReverseTestConsoleApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/math/Sorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/math/probility/ProbabilityTestConsoleApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/math/formatter/Formatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="72" column="49" selection-start-line="72" selection-start-column="49" selection-end-line="72" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/math/formatter/FormatterConsoleApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/ProductNotAvailableException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="e#1684#1685#0" expanded="true" />
+            <element signature="e#1711#1712#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/math/Fraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="105" column="33" selection-start-line="105" selection-start-column="33" selection-end-line="105" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/photostock/sales/model/Money.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/com/bottega/commons/math/probility/Probability.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
           <folding />
         </state>
       </provider>
