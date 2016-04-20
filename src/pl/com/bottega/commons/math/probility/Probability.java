@@ -43,9 +43,9 @@ public class Probability {
         if (this == p) return true;
         if (p == null || getClass() != p.getClass()) return false;
 
-        Probability that = (Probability) p;
+        Probability probability2 = (Probability) p;
 
-        return Double.compare(that.value, value) == 0;
+        return (Math.abs(value - probability2.value)< DELTA);
 
     }
 
