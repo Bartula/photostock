@@ -11,7 +11,7 @@ public class Reservation {
     private List<Product> items = new LinkedList<>();
 
 
-    public Reservation(Client client) {
+    public Reservation(Client owner) {
         this.owner = owner;
     }
 

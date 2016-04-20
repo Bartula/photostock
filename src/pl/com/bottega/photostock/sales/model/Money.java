@@ -24,7 +24,7 @@ public class Money {
     public Money add (Money amount){
         if (!currency.equals(amount.currency))
             throw new IllegalArgumentException("Can not add if different currency");
-        return new Money(value - amount.value, currency);
+        return new Money(value + amount.value, currency);
     }
 
     public Money substract (Money amount){
@@ -40,14 +40,29 @@ public class Money {
     }
 
     @Override
-    public boolean equals(Object o){
-        if (this == o) return true;
+    public boolean equals(Object mon2){
+        /*if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
 
         Money money = (Money) o;
 
         if (!value.equals(money.value)) return false;
-        return currency.equals(money.currency);
+        return currency.equals(money.currency);*/
+        if (this == mon2) return true;
+        if (mon2 == null || getClass() != mon2.getClass()) return false;
+
+        Money money2 = (Money) mon2;
+
+        if (this.currency.equals(money2.currency)){
+            if (value < 100 || money2.value < 100 ){
+                boolean delta = Math.abs(value - money2.value) <= 0.001;
+                return delta;
+            }else{
+                boolean delta = Math.abs(value - money2.value) <= 0.01;
+                return delta;
+            }
+        }
+        return false;
     }
     @Override
     public int hashCode (){
@@ -99,6 +114,7 @@ public class Money {
     public Money getZero(){
         return new Money(0d, currency);
     }
+
 }
 
 

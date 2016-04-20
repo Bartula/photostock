@@ -40,7 +40,7 @@ public class MoneyTestConsoleApp {
         Money m2 = new Money(10, 50, "PLN");
 
         boolean eq = m1.equals(m2);
-        if (eq)
+        if (!eq)
             System.out.println("cos nie tak z porównaniem");
     }
 
