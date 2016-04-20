@@ -5,16 +5,16 @@ package pl.com.bottega.photostock.sales.model;
  */
 public class Money {
 
-    private final Double value = null;// zmienic na Fraction
-    private final String currency = null;
+    private final Double value;// TODO zmienic na Fraction
+    private final String currency; // TODO zamienic na użycie klasy Currency z biblioteki Javy
 
     public Money(Double value, String currency) {
-        //this.value = value;
-        //this.currency = currency;
+        this.value = value;
+        this.currency = currency;
     }
 
-    public Money (int integerValue, int cents, String currency){
-
+    public Money(int integerValue, int cents, String currency){
+        this(integerValue + (double)cents/100, currency);
     }
 
     public Money(double value) {
@@ -22,7 +22,9 @@ public class Money {
     }
 
     public Money add (Money amount){
-        return null;
+        if (!currency.equals(amount.currency))
+            throw new IllegalArgumentException("Can not add if different currency");
+        return new Money(value - amount.value, currency);
     }
 
     public Money substract (Money amount){
@@ -53,13 +55,50 @@ public class Money {
         result = 31 * result + currency.hashCode();
         return result;
     }
-    public Money(){
-        this(0);
+
+    @Override
+    public String toString(){
+        return value + " " + currency;
     }
 
     /**
-     * Created by bartosz.paszkowski on 09.04.2016.
+     *
+     * @param val
+     * @return true if this is grater or equals than val
      */
-    public static class PrintRequest {
+    public boolean ge(Money val){
+        return this.value >= val.value;
+    }
+    /**
+     *
+     * @param val
+     * @return true if this is less or equals than val
+     */
+    public boolean le (Money val){
+        return this.value <= val.value;
+    }
+
+    /**
+     *
+     * @param val
+     * @return true if this is less than val
+     */
+    public boolean lt (Money val){
+        return this.value < val.value;
+    }
+
+    /**
+     *
+     * @param val
+     * @return true if this is grater than val
+     */
+    public boolean gt(Money val){
+        return this.value > val.value;
+    }
+
+    public Money getZero(){
+        return new Money(0d, currency);
     }
 }
+
+
